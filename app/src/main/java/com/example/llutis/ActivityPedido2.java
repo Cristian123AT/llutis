@@ -5,18 +5,11 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 
 
-import android.Manifest;
-import android.content.Intent;
-import android.content.pm.PackageManager;
-import android.net.Uri;
-import android.os.Bundle;
 import android.view.View;
 import android.widget.ProgressBar;
 import android.widget.Toast;
 
 import androidx.annotation.NonNull;
-import androidx.appcompat.app.AppCompatActivity;
-import androidx.core.app.ActivityCompat;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
@@ -115,4 +108,6 @@ public class ActivityPedido2 extends AppCompatActivity implements AvisosAdapter.
     public void onDeleteClick(int position) {
         Toast.makeText(this,"delete click at position: " + position,Toast.LENGTH_SHORT).show();
     }
+
+    
 }

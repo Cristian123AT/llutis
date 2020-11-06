@@ -27,7 +27,7 @@ public class Comanda extends AppCompatActivity {
         addpedido.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(getApplicationContext(), ActivityPedido.class);
+                Intent intent = new Intent(getApplicationContext(), ActivityPedido3.class);
                 intent.putExtra("Mesa",mesa);
                 startActivity(intent);
             }
