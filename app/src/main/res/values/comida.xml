@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string-array name="food_array">
+        <item>Chich. de camaron</item>
+        <item>Chupe de Camaron</item>
+        <item>Sudado de Camarón</item>
+        <item>Caldo de Camarón</item>
+        <item>Chupe de Camaron</item>
+        <item>Arroz con pato</item>
+        <item>Pato al Vino</item>
+        <item>Cuy Chactado</item>
+        <item>Pepian de Cuy</item>
+        <item>Chich. de chancho</item>
+        <item>Chuleta de chancho</item>
+        <item>Triple</item>
+        <item>Chich. de Pollo</item>
+        <item>Milanesa de Pollo</item>
+        <item>Pollo a la plancha</item>
+        <item>Parrillada</item>
+
+    </string-array>
+</resources>
